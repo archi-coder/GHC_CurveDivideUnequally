@@ -1,0 +1,7 @@
+C:\Users\filip\Documents\Grasshopper\0 _VS_\ArchiCoder002_DivisionUneqully\bin\ArchiCoder001.dll
+C:\Users\filip\Documents\Grasshopper\0 _VS_\ArchiCoder002_DivisionUneqully\bin\ArchiCoder001.pdb
+C:\Users\filip\Documents\Grasshopper\0 _VS_\ArchiCoder002_DivisionUneqully\obj\Release\ArchiCoder_DivideUnequally.csprojAssemblyReference.cache
+C:\Users\filip\Documents\Grasshopper\0 _VS_\ArchiCoder002_DivisionUneqully\obj\Release\ArchiCoder001.Properties.Resources.resources
+C:\Users\filip\Documents\Grasshopper\0 _VS_\ArchiCoder002_DivisionUneqully\obj\Release\ArchiCoder_DivideUnequally.csproj.GenerateResource.cache
+C:\Users\filip\Documents\Grasshopper\0 _VS_\ArchiCoder002_DivisionUneqully\obj\Release\ArchiCoder001.dll
+C:\Users\filip\Documents\Grasshopper\0 _VS_\ArchiCoder002_DivisionUneqully\obj\Release\ArchiCoder001.pdb
